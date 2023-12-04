@@ -1,0 +1,155 @@
+#supermarket-worker {
+    margin-top: 15%;
+    margin-left: 50%;
+}
+#worker-chat {
+    position: absolute;
+}
+#guest-chat {
+    margin-left: -60%;
+    margin-top:-80%o;
+}
+#cafe-chat {
+    position: absolute;
+    margin-left: 75%;
+}
+#sign-person {
+    position: absolute;
+    width: 50%;
+    margin-top: 20%;
+}
+#signs-chat {
+    position: absolute;
+    transform: scaleX(-1);
+}
+#person1 {
+    position: absolute;
+    margin-left: 20%;
+    margin-top: 15%;
+}
+#supermarket-worker{
+    position: absolute;
+    margin-left: 40% ;
+    margin-top: 15%;
+}
+#worker-chat {
+    position: absolute;
+    margin-left: 60%;
+}
+#guest-chat {
+    position: absolute;
+    margin-left: 10%;
+    transform: scaleX(-1);
+}
+#thug {
+    position: absolute;
+    height: 30%;
+    margin-top: 30%;
+    margin-left: 80%;
+}
+#decoy {
+    position: absolute;
+    height: 30%;
+    margin-top: 30%;
+    margin-left: 50%;
+}
+#person {
+    position: absolute;
+    height: 30%;
+    margin-top: 30%;
+    margin-left: 30%;
+}
+#decoy-chat {
+    position: absolute;
+    transform: scaleX(-1);
+    height: 20%;
+    margin-top: 25%;
+    margin-left: 50%;
+}
+#person-chat {
+    position: absolute;
+    height: 20%;
+    margin-top: 25%;
+    margin-left: 35%;
+}
+#question1 {
+    position: absolute;
+    font-size: 150%;
+    margin-top: 7%;
+    margin-left: 11%;
+}
+#question2 {
+    position: absolute;
+    font-size: 150%;
+    margin-top: 7%;
+    margin-left: 11%;
+}
+#question3 {
+    position: absolute;
+    font-size: 150%;
+    margin-top: 7%;
+    margin-left: 11%;
+}
+#question4 {
+    position: absolute;
+    font-size: 150%;
+    margin-top: 7%;
+    margin-left: 11%;
+}
+#guest1-chat {
+    margin-top: 20%;
+    margin-left: 10%;
+}
+#cafe1 {
+    position: absolute;
+    margin-top: -25%;
+    margin-left: 13%;
+    font-size: 1.5rem;
+}
+#cafe2 {
+    position: absolute;
+    margin-top: -25%;
+    margin-left: 13%;
+    font-size: 1.5rem;
+}#cafe3 {
+    position: absolute;
+    margin-top: -25%;
+    margin-left: 13%;
+    font-size: 1.5rem;
+}#cafe4 {
+    position: absolute;
+    margin-top: -25%;
+    margin-left: 13%;
+    font-size: 1.5rem;
+}
+#cafe-start {
+    position: absolute;
+    margin-left: 75%;
+}
+
+#chat1 {
+    position: absolute;
+    margin-top: 26%;
+    margin-left: 50%;
+    font-size: 1.5rem;
+}
+#chat3 {
+    position: absolute;
+    margin-top: 27%;
+    margin-left: 50%;
+    font-size: 1rem;
+}
+
+#chat2 {
+    position: absolute;
+    margin-top: 27%;
+    margin-left: 37%;
+    font-size: 1.5rem;
+}
+
+#chat4 {
+    position: absolute;
+    margin-top: 26%;
+    margin-left: 36%;
+    font-size: 1.5rem;
+}
